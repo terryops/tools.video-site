@@ -12,6 +12,13 @@
 </p>
 
 <p align="center">
+  <strong>English</strong> •
+  <a href="README.zh-CN.md">简体中文</a> •
+  <a href="README.ja.md">日本語</a> •
+  <a href="README.es.md">Español</a>
+</p>
+
+<p align="center">
   <a href="https://tools.video">🌐 Website</a> •
   <a href="#tools">🛠 All Tools</a> •
   <a href="#features">✨ Features</a> •
